@@ -292,10 +292,10 @@ see userid : 14 and 16 as below for new users added via POST request.
 ]
 
 
-7) The following not implemented:
+7) The following features not implemented:
 
-7.1  ) Front end view based on the JSON returned due to time limiation to explore and implement. I believe the front end this can be implemented using JQuery and some plugin
+7.1  ) Front end view based on the JSON returned due to time limiation to explore and implement. I believe the front end view can be implemented using JQuery and its some plugin.
 
-7.2 ) Points to a user recursively based on user linking. 
+7.2 ) Points based system ie points credited to a user recursively based on  a new user registration and linking. 
 
 
